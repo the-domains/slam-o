@@ -1,0 +1,28 @@
+name: slam-o
+favicon: null
+layout_spectrum: 0.9327945220284164
+typography_spectrum: 0.3385093039833009
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.42923017987050116
+  lightness: 0.10528446198441088
+  saturation: 0.1431570656131953
+  rhythmicContrast: 0.891846623737365
+purpose: []
